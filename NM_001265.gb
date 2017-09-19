@@ -1,0 +1,247 @@
+LOCUS       NM_001265               3517 bp    mRNA    linear   PRI 18-SEP-2017
+DEFINITION  Homo sapiens caudal type homeobox 2 (CDX2), transcript variant 1,
+            mRNA.
+ACCESSION   NM_001265
+VERSION     NM_001265.5
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3517)
+  AUTHORS   Shah SS, Wu TT, Torbenson MS and Chandan VS.
+  TITLE     Aberrant CDX2 expression in hepatocellular carcinomas: an important
+            diagnostic pitfall
+  JOURNAL   Hum. Pathol. 64, 13-18 (2017)
+   PUBMED   28089540
+  REMARK    GeneRIF: A small subset (5%) of hepatocellular carcinomas are CDX2
+            positive.
+REFERENCE   2  (bases 1 to 3517)
+  AUTHORS   Nguyen TT, Savory JG, Brooke-Bisschop T, Ringuette R, Foley T, Hess
+            BL, Mulatz KJ, Trinkle-Mulcahy L and Lohnes D.
+  TITLE     Cdx2 Regulates Gene Expression through Recruitment of
+            Brg1-associated Switch-Sucrose Non-fermentable (SWI-SNF) Chromatin
+            Remodeling Activity
+  JOURNAL   J. Biol. Chem. 292 (8), 3389-3399 (2017)
+   PUBMED   28082674
+  REMARK    GeneRIF: Cdx members interact with the SWI-SNF complex and make
+            direct contact with Brg1, a catalytic member of SWI-SNF. Both Cdx2
+            and Brg1 co-occupy a number of Cdx target genes, and both factors
+            are necessary for transcriptional regulation of such targets.
+            Finally, Cdx2 and Brg1 occupancy occurs coincident with chromatin
+            remodeling at some of these loci.
+REFERENCE   3  (bases 1 to 3517)
+  AUTHORS   Oz Atalay F, Aytac Vuruskan B and Vuruskan H.
+  TITLE     CDX2 immunostaining in primary and metastatic germ cell tumours of
+            the testis
+  JOURNAL   J. Int. Med. Res. 44 (6), 1323-1330 (2016)
+   PUBMED   28322096
+  REMARK    GeneRIF: Strong expression of CDX2 was demonstrated only in the
+            mature colonic epithelium of teratomas in both primary and
+            metastatic germ cell tumors of the testis.
+REFERENCE   4  (bases 1 to 3517)
+  AUTHORS   Freund JN, Duluc I, Reimund JM, Gross I and Domon-Dell C.
+  TITLE     Extending the functions of the homeotic transcription factor Cdx2
+            in the digestive system through nontranscriptional activities
+  JOURNAL   World J. Gastroenterol. 21 (5), 1436-1443 (2015)
+   PUBMED   25663763
+  REMARK    Review article
+REFERENCE   5  (bases 1 to 3517)
+  AUTHORS   Olsen J, Espersen ML, Jess P, Kirkeby LT and Troelsen JT.
+  TITLE     The clinical perspectives of CDX2 expression in colorectal cancer:
+            a qualitative systematic review
+  JOURNAL   Surg Oncol 23 (3), 167-176 (2014)
+   PUBMED   25126956
+  REMARK    Review article
+REFERENCE   6  (bases 1 to 3517)
+  AUTHORS   Witek ME, Snook AE, Lin JE, Blomain ES, Xiang B, Magee MS and
+            Waldman SA.
+  TITLE     A novel CDX2 isoform regulates alternative splicing
+  JOURNAL   PLoS ONE 9 (8), E104293 (2014)
+   PUBMED   25101906
+  REMARK    Erratum:[PLoS One. 2014;9(10):e112164. Magee, Michael [corrected to
+            Magee, Michael S]]
+            Publication Status: Online-Only
+REFERENCE   7  (bases 1 to 3517)
+  AUTHORS   Drummond F, Putt W, Fox M and Edwards YH.
+  TITLE     Cloning and chromosome assignment of the human CDX2 gene
+  JOURNAL   Ann. Hum. Genet. 61 (PT 5), 393-400 (1997)
+   PUBMED   9459001
+REFERENCE   8  (bases 1 to 3517)
+  AUTHORS   Inoue H, Riggs AC, Tanizawa Y, Ueda K, Kuwano A, Liu L,
+            Donis-Keller H and Permutt MA.
+  TITLE     Isolation, characterization, and chromosomal mapping of the human
+            insulin promoter factor 1 (IPF-1) gene
+  JOURNAL   Diabetes 45 (6), 789-794 (1996)
+   PUBMED   8635654
+REFERENCE   9  (bases 1 to 3517)
+  AUTHORS   German MS, Wang J, Fernald AA, Espinosa R 3rd, Le Beau MM and Bell
+            GI.
+  TITLE     Localization of the genes encoding two transcription factors, LMX1
+            and CDX3, regulating insulin gene expression to human chromosomes 1
+            and 13
+  JOURNAL   Genomics 24 (2), 403-404 (1994)
+   PUBMED   7698771
+REFERENCE   10 (bases 1 to 3517)
+  AUTHORS   Suh E, Chen L, Taylor J and Traber PG.
+  TITLE     A homeodomain protein related to caudal regulates
+            intestine-specific gene transcription
+  JOURNAL   Mol. Cell. Biol. 14 (11), 7340-7351 (1994)
+   PUBMED   7935448
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL591024.14, BC014461.1,
+            BI085425.1 and AK000205.1.
+            On Aug 19, 2017 this sequence version replaced gi:372624391.
+            
+            Summary: This gene is a member of the caudal-related homeobox
+            transcription factor gene family. The encoded protein is a major
+            regulator of intestine-specific genes involved in cell growth an
+            differentiation. This protein also plays a role in early embryonic
+            development of the intestinal tract. Aberrant expression of this
+            gene is associated with intestinal inflammation and tumorigenesis.
+            [provided by RefSeq, Jan 2012].
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: Y13709.1, BC014461.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968540, SAMN03267769
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-188               AL591024.14        27157-27344         c
+            189-1313            BC014461.1         1-1125
+            1314-2278           AL591024.14        20117-21081         c
+            2279-2351           BI085425.1         278-350
+            2352-2919           AL591024.14        19476-20043         c
+            2920-3517           AK000205.1         198-795
+FEATURES             Location/Qualifiers
+     source          1..3517
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="13"
+                     /map="13q12.2"
+     gene            1..3517
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /note="caudal type homeobox 2"
+                     /db_xref="GeneID:1045"
+                     /db_xref="HGNC:HGNC:1806"
+                     /db_xref="MIM:600297"
+     exon            1..903
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /inference="alignment:Splign:2.0.8"
+     misc_feature    42..44
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /note="upstream in-frame stop codon"
+     CDS             363..1304
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     caudal type homeobox transcription factor 2; homeobox
+                     protein CDX-2; caudal-type homeobox protein 2; homeobox
+                     protein miniCDX2"
+                     /codon_start=1
+                     /product="homeobox protein CDX-2 isoform 1"
+                     /protein_id="NP_001256.3"
+                     /db_xref="CCDS:CCDS9328.1"
+                     /db_xref="GeneID:1045"
+                     /db_xref="HGNC:HGNC:1806"
+                     /db_xref="MIM:600297"
+                     /translation="MYVSYLLDKDVSMYPSSVRHSGGLNLAPQNFVSPPQYPDYGGYH
+                     VAAAAAAAANLDSAQSPGPSWPAAYGAPLREDWNGYAPGGAAAAANAVAHGLNGGSPA
+                     AAMGYSSPADYHPHHHPHHHPHHPAAAPSCASGLLQTLNPGPPGPAATAAAEQLSPGG
+                     QRRNLCEWMRKPAQQSLGSQVKTRTKDKYRVVYTDHQRLELEKEFHYSRYITIRRKAE
+                     LAATLGLSERQVKIWFQNRRAKERKINKKKLQQQQQQQPPQPPPPPPQPPQPQPGPLR
+                     SVPEPLSPVSSLQASVSGSVPGVLGPTGGVLNPTVTQ"
+     misc_feature    540..542
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P43241};
+                     propagated from UniProtKB/Swiss-Prot (Q99626.3);
+                     phosphorylation site"
+     exon            904..1049
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1050..3501
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /inference="alignment:Splign:2.0.8"
+ORIGIN      
+        1 ctccaaccat tggtgtctgt gtcattacta atagagtctt gtaaacactc gttaatcacg
+       61 gaaggccgcc ggcctggggc tccgcacgcc agcctgtggc gggtcttccc cgcctctgca
+      121 gcctagtggg aaggaggtgg gaggaaagaa ggaagaaagg gagggaggga ggaggcaggc
+      181 cagagggagg gaccgcctcg gaggcagaag agccgcgagg agccagcgga gcaccgcggg
+      241 ctggggcgca gccacccgcc gctcctcgag tcccctcgcc cctttccctt cgtgcccccc
+      301 ggcagcctcc agcgtcggtc cccaggcagc atggtgaggt ctgctcccgg accctcgcca
+      361 ccatgtacgt gagctacctc ctggacaagg acgtgagcat gtaccctagc tccgtgcgcc
+      421 actctggcgg cctcaacctg gcgccgcaga acttcgtcag ccccccgcag tacccggact
+      481 acggcggtta ccacgtggcg gccgcagctg cagcggcagc gaacttggac agcgcgcagt
+      541 ccccggggcc atcctggccg gcagcgtatg gcgccccact ccgggaggac tggaatggct
+      601 acgcgcccgg aggcgccgcg gccgccgcca acgccgtggc tcacggcctc aacggtggct
+      661 ccccggccgc agccatgggc tacagcagcc ccgcagacta ccatccgcac caccacccgc
+      721 atcaccaccc gcaccacccg gccgccgcgc cttcctgcgc ttctgggctg ctgcaaacgc
+      781 tcaaccccgg ccctcctggg cccgccgcca ccgctgccgc cgagcagctg tctcccggcg
+      841 gccagcggcg gaacctgtgc gagtggatgc ggaagccggc gcagcagtcc ctcggcagcc
+      901 aagtgaaaac caggacgaaa gacaaatatc gagtggtgta cacggaccac cagcggctgg
+      961 agctggagaa ggagtttcac tacagtcgct acatcaccat ccggaggaaa gccgagctag
+     1021 ccgccacgct ggggctctct gagaggcagg ttaaaatctg gtttcagaac cgcagagcaa
+     1081 aggagaggaa aatcaacaag aagaagttgc agcagcaaca gcagcagcag ccaccacagc
+     1141 cgcctccgcc gccaccacag cctccccagc ctcagccagg tcctctgaga agtgtcccag
+     1201 agcccttgag tccggtgtct tccctgcaag cctcagtgtc tggctctgtc cctggggttc
+     1261 tggggccaac tgggggggtg ctaaacccca ccgtcaccca gtgacccacc gggttctgca
+     1321 gcggcagagc aattccaggc tgagccatga ggagcgtgga ctctgctaga ctcctcagga
+     1381 gagacccctc ccctcccacc cacagccata gacctacaga cctggctctc agaggaaaaa
+     1441 tgggagccag gagtaagaca agtgggattt ggggcctcaa gaaatatact ctcccagatt
+     1501 tttacttttt cccatctggc tttttctgcc actgaggaga cagaaagcct ccgctgggct
+     1561 tcattccgga ctggcagaag cattgcctgg actgaccaca ccaaccaggc cttcatcctc
+     1621 ctccccagct cttctcttcc tagatctgca ggctgcacct ctggctagag ccgaggggag
+     1681 agagggactc aagggaaagg caagcttgag gccaagatgg ctgctgcctg ctcatggccc
+     1741 tcggaggtcc agctgggcct cctgcctccg ggcaggcaag gtttacactg cggaagccaa
+     1801 aggcagctaa gatagaaagc tggactgacc aaagactgca gaacccccag gtggcctgcg
+     1861 tcttttttct cttcccttcc cagaccagga aaggcttggc tggtgtatgc acagggtgtg
+     1921 gtatgagggg gtggttattg gactccaggc ctgaccaggg ggcccgaaca gggacttgtt
+     1981 tagagagcct gtcaccagag cttctctggg ctgaatgtat gtcagtgcta taaatgccag
+     2041 agccaacctg gacttcctgt cattttcaca atcttggggc tgatgaagaa gggggtgggg
+     2101 ggagtttgtg ttgttgttgc tgctgtttgg gttgttggtc tgtgtaacat ccaagccaga
+     2161 gtttttaaag ccttctggat ccatgggggg agaagtgata tggtgaaggg aagtggggag
+     2221 tatttgaaca cagttgaatt ttttctaaaa agaaaaagag ataaatgagc tttccagatt
+     2281 tcagattctg tatttatctt cagattttgt ctgcaactat tttttatttt ttaaagaaat
+     2341 gaaatatctt ctctgcttgc aagctgattt ggaaaattca gagagggagt ggagattatc
+     2401 tggacagcct cattttaccc cagagcatca gaagcctgaa agagcaggtt ctgagacctt
+     2461 ccctgccccc aagcctgagc ccagccttgg aatgcgtggc tctcctgggg gtgcctttgg
+     2521 gcaaaatgca catctgaatg gccaggtgct tcccagcagt cagaaattat ggggggtggg
+     2581 ggtgagaggg ccccctcata gcatctcacc aaatccacat ggaggctttt tgcaaacagc
+     2641 aggcagttcc cttctgcagt gactccctcc taaggacgcc ccacaaccca gctagttaaa
+     2701 cgtgagcatt aaattttttt taaaaaaaat ccccctagtt tcccaagaca gcatttccat
+     2761 gaatttagtc ttctgtaaat cactgggcat ttccgtgagc cctttctgcc tccactctct
+     2821 tctctgtctt tgcagtttcc ttatccccga ccgcgccccc ccttccaacc caatcacccc
+     2881 acaaacaaga tttctagacc cagtataaaa tgatcctttt agtgacagtt tcttgttatc
+     2941 tggccgatcc actggggacc gggctgcagc ctttaaaatt tttgatcctg gaggccgccg
+     3001 agctgaactt tccggcagga cccgggcgag gggggcttag cccttcgttt cgatcttccc
+     3061 accaacatcc gagagcctaa tcagcgcgcc cacggaggcg ccttaagggc agttggggaa
+     3121 gatgagcaga gccgggaaac agcaagaggt atagaccctc tgcagcacct ctccaattcc
+     3181 gcggcccttc cgggtggcgt atacagctcc aggattggga aaggggctcc ggtggcccgg
+     3241 cccgcgggcg cctggcctcg aagccagagg gaggagtgcg gggcgtgggg tcggggggtg
+     3301 ccgggcagag gaggaagccg tgtccgggtc cgctgggcga ggggtcctgg gtcaggggtc
+     3361 ctgggtcagg gccggtctga gccccggtgc cccgcaggtc tccccgcgcc ccggccgcgc
+     3421 ccacaggccc gccccctagc cgccggggtt gctatgcgtt gccgtgaaac gcctgtcaat
+     3481 aaaccctgtt tggacagtgg aaaaaaaaaa aaaaaaa
+//
+
